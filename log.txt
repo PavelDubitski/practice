@@ -1,0 +1,5 @@
+commit 27c67c156eb48f09d2640b1a751bae0ece8fa713
+Author: Pavel Dubitski <pavel.dubitski@gmail.com>
+Date:   Tue Apr 20 09:23:13 2021 +0300
+
+    add .gitignore
